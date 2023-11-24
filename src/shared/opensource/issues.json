@@ -1,0 +1,38 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "MDU6SXNzdWU3NDE3NjQzNDg=",
+      "closed": false,
+      "title": "Quebrar telas dos prototipos do wiki[1hr]",
+      "createdAt": "2020-11-12T16:56:29Z",
+      "url": "https://github.com/dsm-cefet-rj/trabalho-integrado-2020-1-grupo-1/issues/16",
+      "number": 16,
+      "assignees": {
+        "nodes": [
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/52041311?u=7e197461f106a7bf71907a7285238466889f65fc&v=4",
+            "name": "Anthony Vinicius",
+            "url": "https://github.com/anthonyvii27"
+          },
+          {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/55923715?u=f273bc87f7fba87e84c46298b9a8687aef68bae2&v=4",
+            "name": "Mateus Lopez",
+            "url": "https://github.com/mateusrlopez"
+          }
+        ]
+      },
+      "repository": {
+        "name": "trabalho-integrado-2020-1-grupo-1",
+        "url": "https://github.com/dsm-cefet-rj/trabalho-integrado-2020-1-grupo-1",
+        "owner": {
+          "login": "dsm-cefet-rj",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/72868284?v=4",
+          "url": "https://github.com/dsm-cefet-rj"
+        }
+      }
+    }
+  ],
+  "open": 1,
+  "totalCount": 1
+}
