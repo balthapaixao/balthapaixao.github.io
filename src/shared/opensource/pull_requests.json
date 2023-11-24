@@ -1,0 +1,279 @@
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "PR_kwDOIWO31s5PZNLz",
+      "title": "Refactory",
+      "url": "https://github.com/balthapaixao/qdrec/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+        "url": "https://github.com/balthapaixao",
+        "login": "balthapaixao"
+      },
+      "createdAt": "2023-04-28T14:50:30Z",
+      "number": 1,
+      "changedFiles": 24,
+      "additions": 1100,
+      "deletions": 519,
+      "baseRepository": {
+        "name": "qdrec",
+        "url": "https://github.com/balthapaixao/qdrec",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+          "login": "balthapaixao",
+          "url": "https://github.com/balthapaixao"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIWAe5s5IOB_p",
+      "title": "versao-1.0",
+      "url": "https://github.com/MLRG-CEFET-RJ/qdrec/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6460897?u=76e89cbc935c6c22422ef6fac2f58a8a4a7bf308&v=4",
+        "url": "https://github.com/edubezerra",
+        "login": "edubezerra"
+      },
+      "createdAt": "2023-01-20T14:42:56Z",
+      "number": 1,
+      "changedFiles": 22,
+      "additions": 1790,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "qdrec",
+        "url": "https://github.com/MLRG-CEFET-RJ/qdrec",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/38389174?v=4",
+          "login": "MLRG-CEFET-RJ",
+          "url": "https://github.com/MLRG-CEFET-RJ"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIAwfK84_gwe1",
+      "title": "fact dimension update",
+      "url": "https://github.com/balthapaixao/data_pipeline_gcp/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+        "url": "https://github.com/balthapaixao",
+        "login": "balthapaixao"
+      },
+      "createdAt": "2022-09-23T16:52:42Z",
+      "number": 3,
+      "changedFiles": 9,
+      "additions": 260,
+      "deletions": 1230,
+      "baseRepository": {
+        "name": "data_pipeline_gcp",
+        "url": "https://github.com/balthapaixao/data_pipeline_gcp",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+          "login": "balthapaixao",
+          "url": "https://github.com/balthapaixao"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIAwfK84_fuas",
+      "title": "from  dbt cloud",
+      "url": "https://github.com/balthapaixao/data_pipeline_gcp/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+        "url": "https://github.com/balthapaixao",
+        "login": "balthapaixao"
+      },
+      "createdAt": "2022-09-23T12:43:26Z",
+      "number": 2,
+      "changedFiles": 4,
+      "additions": 1108,
+      "deletions": 17,
+      "baseRepository": {
+        "name": "data_pipeline_gcp",
+        "url": "https://github.com/balthapaixao/data_pipeline_gcp",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+          "login": "balthapaixao",
+          "url": "https://github.com/balthapaixao"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIAwfK84_STTy",
+      "title": "Dev dbt",
+      "url": "https://github.com/balthapaixao/data_pipeline_gcp/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+        "url": "https://github.com/balthapaixao",
+        "login": "balthapaixao"
+      },
+      "createdAt": "2022-09-20T15:36:55Z",
+      "number": 1,
+      "changedFiles": 12,
+      "additions": 227,
+      "deletions": 461,
+      "baseRepository": {
+        "name": "data_pipeline_gcp",
+        "url": "https://github.com/balthapaixao/data_pipeline_gcp",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+          "login": "balthapaixao",
+          "url": "https://github.com/balthapaixao"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGbqKfs40ht9M",
+      "title": "bloqueio de rotas front end",
+      "url": "https://github.com/dsm-cefet-rj/trabalhointegrado2021-2-2021-2-grupo-4/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+        "url": "https://github.com/balthapaixao",
+        "login": "balthapaixao"
+      },
+      "createdAt": "2022-03-16T11:38:31Z",
+      "number": 5,
+      "changedFiles": 2,
+      "additions": 35,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "trabalhointegrado2021-2-2021-2-grupo-4",
+        "url": "https://github.com/dsm-cefet-rj/trabalhointegrado2021-2-2021-2-grupo-4",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/72868284?v=4",
+          "login": "dsm-cefet-rj",
+          "url": "https://github.com/dsm-cefet-rj"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGbqKfs4x_Is_",
+      "title": "Validacao baclend",
+      "url": "https://github.com/dsm-cefet-rj/trabalhointegrado2021-2-2021-2-grupo-4/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+        "url": "https://github.com/balthapaixao",
+        "login": "balthapaixao"
+      },
+      "createdAt": "2022-02-02T19:33:09Z",
+      "number": 3,
+      "changedFiles": 4,
+      "additions": 15,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "trabalhointegrado2021-2-2021-2-grupo-4",
+        "url": "https://github.com/dsm-cefet-rj/trabalhointegrado2021-2-2021-2-grupo-4",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/72868284?v=4",
+          "login": "dsm-cefet-rj",
+          "url": "https://github.com/dsm-cefet-rj"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGbqKfs4xRrf0",
+      "title": "Painel validacao final",
+      "url": "https://github.com/dsm-cefet-rj/trabalhointegrado2021-2-2021-2-grupo-4/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+        "url": "https://github.com/balthapaixao",
+        "login": "balthapaixao"
+      },
+      "createdAt": "2022-01-19T17:02:32Z",
+      "number": 2,
+      "changedFiles": 10,
+      "additions": 243,
+      "deletions": 19879,
+      "baseRepository": {
+        "name": "trabalhointegrado2021-2-2021-2-grupo-4",
+        "url": "https://github.com/dsm-cefet-rj/trabalhointegrado2021-2-2021-2-grupo-4",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/72868284?v=4",
+          "login": "dsm-cefet-rj",
+          "url": "https://github.com/dsm-cefet-rj"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOGbqKfs4wWaiQ",
+      "title": "Botao validacao",
+      "url": "https://github.com/dsm-cefet-rj/trabalhointegrado2021-2-2021-2-grupo-4/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+        "url": "https://github.com/balthapaixao",
+        "login": "balthapaixao"
+      },
+      "createdAt": "2021-12-28T23:03:51Z",
+      "number": 1,
+      "changedFiles": 4,
+      "additions": 179,
+      "deletions": 35,
+      "baseRepository": {
+        "name": "trabalhointegrado2021-2-2021-2-grupo-4",
+        "url": "https://github.com/dsm-cefet-rj/trabalhointegrado2021-2-2021-2-grupo-4",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/72868284?v=4",
+          "login": "dsm-cefet-rj",
+          "url": "https://github.com/dsm-cefet-rj"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOA8xMis4rwWS6",
+      "title": "ajuste na função de download do SIH",
+      "url": "https://github.com/AlertaDengue/PySUS/pull/48",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-09-14T23:06:14Z",
+      "number": 48,
+      "changedFiles": 1,
+      "additions": 13,
+      "deletions": 10,
+      "baseRepository": {
+        "name": "PySUS",
+        "url": "https://github.com/AlertaDengue/PySUS",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/17177635?v=4",
+          "login": "AlertaDengue",
+          "url": "https://github.com/AlertaDengue"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NzIzMDMyNDAz",
+      "title": "arquivo limpeza eventos do statsbomb generalizado e testado em todos …",
+      "url": "https://github.com/balthapaixao/f_project/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+        "url": "https://github.com/balthapaixao",
+        "login": "balthapaixao"
+      },
+      "createdAt": "2021-08-31T05:28:20Z",
+      "number": 1,
+      "changedFiles": 5,
+      "additions": 7350,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "f_project",
+        "url": "https://github.com/balthapaixao/f_project",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/16309587?u=0f9430e532163fe45dc2cae6d713fd5b04489a37&v=4",
+          "login": "balthapaixao",
+          "url": "https://github.com/balthapaixao"
+        }
+      }
+    }
+  ],
+  "merged": 10,
+  "open": 0,
+  "totalCount": 11
+}
